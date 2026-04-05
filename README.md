@@ -3,8 +3,7 @@
 Welcome to my personal portfolio website!  
 This project showcases my skills, projects, and experience as a Computer Engineering student.
 
-🔗 Live Website: https://doree20.github.io/portfolio/
-
+🔗 Live Website: https://doree20.github.io/
 
 
 ##  About
